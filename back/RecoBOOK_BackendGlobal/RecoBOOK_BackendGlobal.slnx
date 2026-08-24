@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RecoBOOK.API.Books/RecoBOOK.API.Books.csproj" />
+  <Project Path="RecoBOOK_BackendGlobal.AppHost/RecoBOOK_BackendGlobal.AppHost.csproj" />
+  <Project Path="RecoBOOK_BackendGlobal.ServiceDefaults/RecoBOOK_BackendGlobal.ServiceDefaults.csproj" />
+</Solution>

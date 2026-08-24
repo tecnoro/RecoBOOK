@@ -1,0 +1,31 @@
+﻿# Archivos generados por compilación
+[Bb]in/
+[Oo]bj/
+artifacts/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Resultados y cobertura de pruebas
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Paquetes y archivos temporales
+packages/
+*.nupkg
+*.snupkg
+*.tmp
+*.log
+
+# DLL y símbolos generados
+*.dll
+*.pdb
+*.exe
+/ctx
