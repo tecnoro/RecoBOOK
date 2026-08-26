@@ -8,7 +8,7 @@
       "dotnetRunMessages": true,
       "applicationUrl": "http://localhost:5156"
     },
-    "RecoBOOK.API.Books": {
+    "https": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
