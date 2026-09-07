@@ -30,3 +30,4 @@ packages/
 *.exe
 /ctx
 /back/RecoBOOK_BackendGlobal/.env
+/back/RecoBOOK_BackendGlobal/.env
