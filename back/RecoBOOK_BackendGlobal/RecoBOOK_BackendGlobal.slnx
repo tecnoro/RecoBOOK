@@ -11,6 +11,7 @@
   </Folder>
   <Folder Name="/Secrets/">
     <File Path=".env" />
+    <File Path=".envTemplate" />
   </Folder>
   <Project Path="RecoBOOK_BackendGlobal.AppHost/RecoBOOK_BackendGlobal.AppHost.csproj" />
   <Project Path="RecoBOOK_BackendGlobal.ServiceDefaults/RecoBOOK_BackendGlobal.ServiceDefaults.csproj" />
