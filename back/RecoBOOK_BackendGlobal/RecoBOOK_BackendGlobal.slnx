@@ -10,8 +10,9 @@
     <Project Path="RecoBOOK.DBConnector/RecoBOOK.DBConnector.csproj" Id="c4580ba5-107e-45f0-8645-db28bc4d362d" />
   </Folder>
   <Folder Name="/Secrets/">
+    <File Path="../../.gitignore" />
     <File Path=".env" />
-    <File Path=".envTemplate" />
+    <File Path=".env.example" />
   </Folder>
   <Project Path="RecoBOOK_BackendGlobal.AppHost/RecoBOOK_BackendGlobal.AppHost.csproj" />
   <Project Path="RecoBOOK_BackendGlobal.ServiceDefaults/RecoBOOK_BackendGlobal.ServiceDefaults.csproj" />

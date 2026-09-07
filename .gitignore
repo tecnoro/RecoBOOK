@@ -29,5 +29,6 @@ packages/
 *.pdb
 *.exe
 /ctx
-/back/RecoBOOK_BackendGlobal/.env
-/back/RecoBOOK_BackendGlobal/.env
+.env
+.env.*
+!.env.example
