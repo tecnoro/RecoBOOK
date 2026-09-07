@@ -1,5 +1,17 @@
 <Solution>
-  <Project Path="RecoBOOK.API.Books/RecoBOOK.API.Books.csproj" />
+  <Folder Name="/APIs/" />
+  <Folder Name="/APIs/RecoBOOK.API.Books/">
+    <Project Path="API.Books.Application/API.Books.Application.csproj" Id="7fc023e7-156e-46b5-ae21-bfcef0e71128" />
+    <Project Path="API.Books.Domain/API.Books.Domain.csproj" />
+    <Project Path="API.Books.Infrastructure/API.Books.Infrastructure.csproj" Id="63c45f1a-3465-4df3-ac41-f630c1327176" />
+    <Project Path="RecoBOOK.API.Books/API.Books.csproj" />
+  </Folder>
+  <Folder Name="/Components/">
+    <Project Path="RecoBOOK.DBConnector/RecoBOOK.DBConnector.csproj" Id="c4580ba5-107e-45f0-8645-db28bc4d362d" />
+  </Folder>
+  <Folder Name="/Secrets/">
+    <File Path=".env" />
+  </Folder>
   <Project Path="RecoBOOK_BackendGlobal.AppHost/RecoBOOK_BackendGlobal.AppHost.csproj" />
   <Project Path="RecoBOOK_BackendGlobal.ServiceDefaults/RecoBOOK_BackendGlobal.ServiceDefaults.csproj" />
 </Solution>
