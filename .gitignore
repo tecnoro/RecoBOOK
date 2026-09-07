@@ -29,4 +29,3 @@ packages/
 *.pdb
 *.exe
 /ctx
-/back/RecoBOOK_BackendGlobal/.env
